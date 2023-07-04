@@ -1,5 +1,3 @@
-# Operating Systems - University Project
-
 This repository contains a selection of projects I've completed throughout the semester for my Operating Systems class.
 
 Key topics covered within these projects include:
